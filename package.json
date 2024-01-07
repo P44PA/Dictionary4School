@@ -1,0 +1,28 @@
+{
+    "algorithm": [
+        "Klasa -> Emer \n","Perkufizimi -> Algoritem - Nje set i hollesishem i udhezimeve per kryerjen e nje detyre ose zgjidhjen e nje problemi \n","Huazuar nga -> Anglishtja "
+      ],
+      "API": [
+        "Klasa -> Emer \n",
+        "Perkufizimi -> API - Rajat e Programit Aplikativ, nje set i protokolleve dhe mjetesh per ndertimin e aplikacioneve softuerike \n",
+        "Huazuar nga -> Anglishtja "
+      ],
+      "authentication": [
+        "Klasa -> Folje\n",
+        "Perkufizimi -> Autentikimi - Procesi i verifikimit te identitetit te nje perdoruesi per te siguruar qasjen ne nje sistem ose aplikacion\n",
+        "Huazuar nga -> Anglishtja"
+      ],
+      "bug": [
+        "Klasa -> Emer\n",
+        "Perkufizimi -> Gabim - Nje problem ne kodin kompjuterik qe shkakton sjellje te pasuksesshme ose te padeshirueshme\n",
+        "Huazuar nga -> Anglishtja"
+      ],
+      "cloud_computing": [
+        "Klasa -> Folje\n",
+        "Perkufizimi -> Komputim ne Cloud - Perdorimi i burimeve kompjuterike nepermjet internetit per sherbime si stokim dhe perpunim i te dhenave\n",
+        "Huazuar nga -> Anglishtja"
+      ]
+
+
+}
+
